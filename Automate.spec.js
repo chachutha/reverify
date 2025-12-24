@@ -20,4 +20,6 @@ await page.click("(//button[normalize-space()='Log in'])")
 
 await page.click("//*[name()='path' and contains(@d,'M20.181 35')]")
 
+console.log("cde change")
+
 })
